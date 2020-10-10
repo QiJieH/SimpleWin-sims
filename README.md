@@ -14,21 +14,27 @@
 
 ## 项目预览
 **主页面**
+
 ![](https://gitee.com/QiJieH/blog-image-bed/raw/master/20201010195731.png)
 
 **登录窗口**
+
 ![](https://gitee.com/QiJieH/blog-image-bed/raw/master/20201010202152.png)
 
 **顶部菜单**
+
 ![](https://gitee.com/QiJieH/blog-image-bed/raw/master/20201010202402.png)
 
 **右键菜单**
+
 ![](https://gitee.com/QiJieH/blog-image-bed/raw/master/20201010202442.png)
 
 **多选项卡操作**
+
 ![](https://gitee.com/QiJieH/blog-image-bed/raw/master/20201010202622.png)
 
 **控制台高级查询**
+
 ![](https://gitee.com/QiJieH/blog-image-bed/raw/master/20201010205242.png)
 
 ## 部署教程
